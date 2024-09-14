@@ -1,0 +1,101 @@
+{
+ "product":[
+  {
+    "id":1,
+    "name":"Malmi Linen Slub Dress",
+    "description":"Girls Above Knee Festive/Wedding Dress",
+    "price":300,
+    "category":"women",
+    "images":"r1.jpeg"
+  },
+  {
+    "id":2,
+    "name":"Nityashri Cotton Straight Kurta",
+    "description":"Baby Girls Above Knee Casual Dress",
+    "price":500,
+    "category":"women",
+    "images":"r2.jpeg"
+  },
+  {
+    "id":3,
+    "name":"Eesha Cotton-Handblock Kurta",
+    "description":"Baby Girls Above Knee Casual Dress",
+    "price":560,
+    "category":"women",
+    "images":"r3.jpeg"
+  },
+  {
+    "id":4,
+    "name":"Artha Cotton Handblock Kurta",
+    "description":"Noir Chic Cotton Dress",
+    "price":3120,
+    "category":"women",
+    "images":"r4.jpeg"
+  },
+  {
+    "id":5,
+    "name":"Rashi Cotton Kalamkari Co-ord Set",
+    "description":"Staple Twists Cotton Shirt",
+    "price":2300,
+    "category":"women",
+    "images":"r5.jpeg"
+  },
+  {
+    "id":6,
+    "name":"frok top",
+    "description":"Baby Girls Above Knee Casual Dress",
+    "price":3000,
+    "category":"women",
+    "images":"r6.jpeg"
+  },
+  {
+    "id":7,
+    "name":"Karvi Cotton Kurta Pant Set",
+    "description":"Floral Whimsy Viscose Blend Top",
+    "price":760,
+    "category":"women",
+    "images":"r7.jpeg"
+  },
+  {
+    "id":8,
+    "name":"Megha Cotton Straight Fit Kurta",
+    "description":"Springtime Pink Viscose Midi Dress",
+    "price":900,
+    "category":"kids",
+    "images":"r8.jpeg"
+  },
+  {
+    "id":9,
+    "name":"Jikthisha Cotton Short Kurti",
+    "description":"Urban Comfort Linen Blend Drawstring Pants",
+    "price":1200,
+    "category":"kids",
+    "images":"r9.jpeg"
+  },
+  {
+    "id":10,
+    "name":"Piki Cotton Short Kurti",
+    "description":"Chic Grooves Viscose Shirt",
+    "price":1199,
+    "category":"kids",
+    "images":"r10.jpeg"
+  },
+  {
+    "id":11,
+    "name":"frok top",
+    "description":"Citrus Chic Viscose Blend Straight Dress",
+    "price":2300,
+    "category":"mens",
+    "images":"r11.jpeg"
+  },
+  {
+    "id":12,
+    "name":"Sarayi Cotton Short Kurti",
+    "description":"Dennim jeans for  Dress",
+    "price":600,
+    "category":"mens",
+    "images":"r12.jpeg"
+  }
+ ]
+ 
+}
